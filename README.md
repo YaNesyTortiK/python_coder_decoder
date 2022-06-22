@@ -1,6 +1,6 @@
 # python_coder_decoder
 <p>How to use:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;You must run the program with the following arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;You can run the program with the following arguments:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- input file<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with extension if you're encoding it  |  If you're decoding, then you don't have to specify extension)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- output file<br>
